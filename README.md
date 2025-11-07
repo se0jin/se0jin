@@ -4,7 +4,7 @@
 # 🌱 About Me
 🎓 AI소프트웨어학과 재학 중  
 💡 인공지능 + 백엔드 + 클라우드 중심으로 학습하고 있어요.  
-🚀 주요 관심 분야: **KoBERT, EfficientNet, FastAPI, AWS, MLOps**  
+🚀 주요 관심 분야: **AI, FastAPI, AWS**  
 📚 현재는 감정인식 및 영상분석 기반 돌봄 AI 프로젝트 개발 중입니다.
 
 ---
@@ -13,7 +13,6 @@
 #### 🧠 AI & Machine Learning  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ScikitLearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -37,7 +36,6 @@
 ### 📂 Featured Projects
 | Project | Description | Stack |
 |----------|--------------|--------|
-| 🧬 **AI_2025_practice** | 폐렴 X-ray 이미지 분류 CNN 프로젝트 | Python, PyTorch, EfficientNet |
 | 💬 **SW_1team** | 노인 돌봄을 위한 감정인식 AI 플랫폼 | KoBERT, FastAPI, MongoDB |
 | 🧠 **get-set-go** | 오픈소스소프트웨어 팀 프로젝트 | Flask, HTML/CSS, GitHub |
 | 🌐 **gitstudy05~06** | Git 학습용 HTML 예제 저장소 | HTML, JS, Git |
@@ -62,4 +60,4 @@
 ---
 
 📫 **Contact**  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiheon737@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tina030917@gmail.com)
